@@ -16,7 +16,7 @@ export default function Home() {
     <link rel='icon' href='favicon.ico' />
     </Head>
     <Hero heading='Photography Template' message='Photography Portfolio Template.' />
-    <Slider slides{SliderData} />
+    <Slider slides={SliderData} />
     </div>
   );
   
