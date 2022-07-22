@@ -1,4 +1,3 @@
-
 import React from 'react'
 import IgImg1 from '../public/ig-img-1.jpeg';
 import IgImg2 from '../public/ig-img-2.jpeg';
